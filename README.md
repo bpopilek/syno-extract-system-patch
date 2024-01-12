@@ -1,5 +1,5 @@
 # Introduction
-The latest Synology pat files cannot be extracted using the `tar` command anymore and require special handling.
+The latest Synology pat files cannot be extracted using the `tar` command anymore and now requires special handling.
 
 Based on https://github.com/pocopico/tinycore-redpill.
 
